@@ -10,3 +10,4 @@ Sound waves: https://www.bbc.co.uk/bitesize/articles/z38m7yc#zs3sn9q
 How do noise cancelling headphones work: https://www.philips.co.uk/c-e/so/sound-hub/how-do-noise-cancelling-headphones-work
 Theory behind Fourier transform:
 What’s The Difference Between Time Domain and Frequency Domain Analysis?: https://maurymw.com/whats-the-difference-between-time-domain-and-frequency-domain-analysis/
+Piano Vintage Goat | Privcrypt: https://pixabay.com/sound-effects/musical-piano-vintage-goat-privcrypt-203836/
