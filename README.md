@@ -11,3 +11,5 @@ How do noise cancelling headphones work: https://www.philips.co.uk/c-e/so/sound-
 Theory behind Fourier transform:
 What’s The Difference Between Time Domain and Frequency Domain Analysis?: https://maurymw.com/whats-the-difference-between-time-domain-and-frequency-domain-analysis/
 Piano Vintage Goat | Privcrypt: https://pixabay.com/sound-effects/musical-piano-vintage-goat-privcrypt-203836/
+Piano Frequencies: https://www.skoove.com/blog/note-frequencies/
+LMS Acoustic noise cancellation using LMS: https://www.mathworks.com/help/audio/ug/acoustic-noise-cancellation-using-lms.html
